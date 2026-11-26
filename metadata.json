@@ -1,0 +1,6 @@
+{
+  "name": "CINEVERSE — 3D Cinema & Ticket Booking Platform",
+  "description": "Premium 3D cinematic movie ticket booking platform with interactive Three.js curved panorama, 3D cinema hall seat selection, snacks ordering, QR tickets, and Java Spring Boot backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
